@@ -1,0 +1,3 @@
+18:38:59.861 ERROR Demo2.LogToFile I am an Error message
+18:38:59.864 DEBUG Demo2.LogToFile I am a debug msg
+18:38:59.864 WARN  Demo2.LogToFile I am a warning

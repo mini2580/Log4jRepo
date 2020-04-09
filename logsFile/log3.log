@@ -1,0 +1,5 @@
+18:52:06.702 ERROR Demo1.LogToConsoleUsingConfigFile I am an Error message
+18:52:06.704 DEBUG Demo1.LogToConsoleUsingConfigFile I am a debug msg
+18:52:15.256 ERROR Demo2.LogToFile I am an Error message
+18:52:15.259 DEBUG Demo2.LogToFile I am a debug msg
+18:52:15.259 WARN  Demo2.LogToFile I am a warning
